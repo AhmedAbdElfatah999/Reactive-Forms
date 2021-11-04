@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Reactive-Forms"
+    }
+  },
+  "defaultProject": "Reactive-Forms",
+  "cli": {
+    "analytics": "0a9409c5-257b-4aea-9e64-dd9fcced42c7"
+  }
 }
